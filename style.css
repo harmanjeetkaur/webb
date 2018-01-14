@@ -1,0 +1,354 @@
+#one
+{
+    width:900px;
+    height:600px;
+    border: 5px solid black;
+    Margin-top: 50px;
+    Margin-left:17%;
+}
+#bluetext
+{
+    background-color: black;
+    color: white;
+}
+h1
+{
+    text-align:center;
+    padding:20px;
+    font-family: 'Autour One';
+    font-size: 80px;
+}
+hr
+{   
+     width:50%;  
+}
+
+h2
+{
+    padding:40px;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+#blue1, #blue2, #blue3, #blue4, #blue5
+{
+  width:400px;
+  height:217px;
+  padding:30px;
+  
+}
+
+#blue1
+{
+  
+  background: url("images/blue2.jpg") no-repeat ;
+   
+}
+#blue2
+{
+  
+  background: url("images/blue3.jpg") no-repeat;
+}
+#blue3
+{
+  
+  background: url("images/blue4.jpg") no-repeat;
+  background-size: 320px 150px;
+
+}
+
+#blue4
+{
+  
+  background: url("images/blue5.jpg") no-repeat;
+  background-size: 320px 150px;
+}
+
+.text{
+    width:250px;
+    height:150px;
+    background:#000000;
+    opacity:0;
+    padding:10px;
+  }
+  #blue1:hover .text,   #blue2:hover .text, #blue3:hover .text, #blue4:hover .text
+  {
+    opacity:0.6;
+    color:white;
+    font-size:20px;
+    font-weight:700;
+    font-family:"Times New Roman", Times, serif;
+  }
+  #blue1, #blue2
+  {
+      position:relative;
+      display: inline-block;
+  }
+  #blue3, #blue4
+  {
+      position:relative;
+      display: inline-block;
+  }
+
+
+  #black1, #black2, #black3, #black4, #black5
+  {
+    width:400px;
+    height:217px;
+    padding:30px;
+    
+  }
+  
+  #black1
+  {
+    
+    background: url("images/black2.jpg") no-repeat ;
+    background-size: 320px 150px;
+     
+  }
+  #black2
+  {
+    
+    background: url("images/black3.jpg") no-repeat;
+    background-size: 320px 150px;
+  }
+  #black3
+  {
+    
+    background: url("images/black4.jpg") no-repeat;
+    background-size: 280px 150px;
+  
+  }
+  
+  #black4
+  {
+    
+    background: url("images/black5.jpg") no-repeat;
+    background-size: 320px 150px;
+  }
+  
+    #black1:hover .text,   #black2:hover .text, #black3:hover .text, #black4:hover .text
+    {
+      opacity:0.6;
+      color:white;
+      font-size:20px;
+      font-weight:700;
+      font-family:"Times New Roman", Times, serif;
+    }
+    #black1, #black2
+    {
+        position:relative;
+        display: inline-block;
+    }
+    #black3, #black4
+    {
+        position:relative;
+        display: inline-block;
+    }
+  
+  
+  #red1, #red2, #red3, #red4, #red5
+  {
+    width:400px;
+    height:217px;
+    padding:30px;
+    
+  }
+  
+  #red1
+  {
+    
+    background: url("images/red2.jpg") no-repeat ;
+    background-size: 320px 150px;
+     
+  }
+  #red2
+  {
+    
+    background: url("images/red3.jpg") no-repeat;
+    background-size: 320px 150px;
+    
+  }
+  #red3
+  {
+    
+    background: url("images/red4.jpg") no-repeat;
+    background-size: 320px 150px;
+  
+  }
+  
+  #red4
+  {
+    
+    background: url("images/red5.jpg") no-repeat;
+    background-size: 320px 170px;
+  }
+  
+  
+    #red1:hover .text,   #red2:hover .text, #red3:hover .text, #red4:hover .text
+    {
+      opacity:0.6;
+      color:white;
+      font-size:20px;
+      font-weight:700;
+      font-family:"Times New Roman", Times, serif;
+    }
+    #red1, #red2
+    {
+        position:relative;
+        display: inline-block;
+    }
+    #red3, #red4
+    {
+        position:relative;
+        display: inline-block;
+    }
+
+    #yellow1, #yellow2, #yellow3, #yellow4, #yellow5
+    {
+      width:400px;
+      height:217px;
+      padding:30px;
+      
+    }
+    
+    #yellow1
+    {
+      
+      background: url("images/yellow2.jpg") no-repeat ;
+      background-size: 320px 150px;
+       
+    }
+    #yellow2
+    {
+      
+      background: url("images/yellow3.jpg") no-repeat;
+      background-size: 320px 150px;
+      
+    }
+    #yellow3
+    {
+      
+      background: url("images/yellow4.jpg") no-repeat;
+      background-size: 320px 150px;
+    
+    }
+    
+    #yellow4
+    {
+      
+      background: url("images/yellow5.jpg") no-repeat;
+      background-size: 320px 170px;
+    }
+    
+    
+      #yellow1:hover .text,   #yellow2:hover .text, #yellow3:hover .text, #yellow4:hover .text
+      {
+        opacity:0.6;
+        color:white;
+        font-size:20px;
+        font-weight:700;
+        font-family:"Times New Roman", Times, serif;
+      }
+      #yellow1, #yellow2
+      {
+          position:relative;
+          display: inline-block;
+      }
+      #yellow3, #yellow4
+      {
+          position:relative;
+          display: inline-block;
+      }
+  
+  #images
+  {
+      text-align: center;
+      padding: 30px;
+  }
+  footer{
+      background-color:#302E2E;
+      height:200px;
+      color:white;
+      padding:20px;
+      text-align:center;
+      
+  }
+  footer p
+  {
+    font-size:20px;
+  }
+  #foot1
+  {
+      padding:50px;
+  }
+
+  .card-columns {
+    margin:60px;
+  }
+
+  #green1, #green2, #green3, #green4, #green5
+  {
+    width:400px;
+    height:217px;
+    padding:30px;
+    
+  }
+  
+  #green1
+  {
+    
+    background: url("images/green2.jpg") no-repeat ;
+     
+  }
+  #green2
+  {
+    
+    background: url("images/green3.jpg") no-repeat;
+    background-size: 320px 150px;
+    
+  }
+  #green3
+  {
+    
+    background: url("images/green4.jpg") no-repeat;
+    
+  
+  }
+  
+  #green4
+  {
+    
+    background: url("images/green5.jpg") no-repeat;
+    background-size: 320px 150px;
+  }
+  
+  .text{
+      width:250px;
+      height:150px;
+      background:#000000;
+      opacity:0;
+      padding:10px;
+    }
+    #green1:hover .text,   #green2:hover .text, #green3:hover .text, #green4:hover .text
+    {
+      opacity:0.6;
+      color:white;
+      font-size:20px;
+      font-weight:700;
+      font-family:"Times New Roman", Times, serif;
+    }
+    #green1, #green2
+    {
+        position:relative;
+        display: inline-block;
+    }
+    #green3, #green4
+    {
+        position:relative;
+        display: inline-block;
+    }
+  
+
+    
